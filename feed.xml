@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Product Hunt Podcasts β]]></title>
+        <description><![CDATA[All Product Hunt podcast β submissions wrapped in one podcast updated hourly]]></description>
+        <link>https://www.producthunt.com/podcasts</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 15 Oct 2015 20:12:45 GMT</lastBuildDate>
+        <atom:link href="http://phpmp.lab.moritz.pro/feed.xml" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[en]]></language>
+        <ttl>15</ttl>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:summary>All Product Hunt podcast submissions wrapped in one podcast. Updated hourly!</itunes:summary>
+        <itunes:category text="Technology">
+        </itunes:category>
+        <item>
+            <title><![CDATA[▲46 | Does Not Compute - Episode 1: There's Always Paypal]]></title>
+            <description><![CDATA[How asking questions is the best way to learn how to code.]]></description>
+            <link>https://www.producthunt.com/podcasts/does-not-compute-episode-1-there-s-always-paypal</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18370.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 17:23:36 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18370.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>How asking questions is the best way to learn how to code.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/does-not-compute-episode-1-there-s-always-paypal&apos;&gt;How asking questions is the best way to learn how to code.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jdunsterville&apos;&gt;Josh Dunsterville&lt;/a&gt;: Yet another great podcast from the Spec Network!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@uberbryn&apos;&gt;Bryn Jackson&lt;/a&gt;: The best part of creating Spec has been that we can enable talented people to help other designers and developers level up without having to buy their own equipment, do all their own editing, or sell their own sponsorships to make the shows viable. Sean and Paul are crazy talented and this show is great, so I&apos;m absolutely stoked to have them on the network.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@michaelschultz&apos;&gt;Michael Schultz&lt;/a&gt;: Super excited about this show. Sean and Paul are two smart programmers and they tend to have a very thoughtful, well-rounded advice on just about every topic.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9953</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/1f16d71e-f5ad-4531-b735-a27670741853?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲19 | Angel Insights - Modwenna Rees-Mogg, co-Founder @ CrowdRating]]></title>
+            <description><![CDATA[Modwenna chats about what makes a great investor.]]></description>
+            <link>https://www.producthunt.com/podcasts/angel-insights-modwenna-rees-mogg-co-founder-crowdrating</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/228338958/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Harry Stebbings]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 09:19:19 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/228338958/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Harry Stebbings</itunes:author>
+            <itunes:subtitle>Modwenna chats about what makes a great investor.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/angel-insights-modwenna-rees-mogg-co-founder-crowdrating&apos;&gt;Modwenna chats about what makes a great investor.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@tombritton&apos;&gt;tom britton&lt;/a&gt;: This is an amazing episode Harry, Modwenna has such a diverse background which she draws on to shape her intelligent approach to Angel investing.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@harrystebbings&apos;&gt;Harry Stebbings&lt;/a&gt;: Modwenna Rees Mogg (@modwenna) is an experienced corporate financier turned entrepreneur, as the founder of www.angelnews.co.uk, the leading private investor news service with the goal of improving transparency and accountability in the early stage investment market to enable it to grow and create win:win situations for all concerned. Modwenna has also recently Co-Founded CrowdRating, the ratings agency for equity crowdfunding. In today’ episode we delve into why now is the best time to be an angel investor, what separates a great angel from a good angel and how to utilize your investing network for maximum dealflow.&lt;br&gt; &lt;br&gt;For your chance to win a signed copy of the legendary Venture Deals by Brad Feld (@bfeld) all you have to do is click the click to tweet: http://ctt.ec/e0zkG&lt;br&gt;&lt;br&gt;In Today’s Episode You Will Learn:&lt;br&gt;&lt;br&gt;1.) How did Modwenna get into the investing world?&lt;br&gt;2.) Why is now the best time to be an angel investor and what has changed over the last few years that has made this happen?&lt;br&gt;3.) What does Modwenna think separates the incredible angel from the less useful investor?&lt;br&gt;4.) What does Modwenna think of the syndicated model of angel investing? Has Modwenna seen a rise in the amount of angel due to crowdfunding platforms increasing accessibility? &lt;br&gt;5.) If a startup has more than one angel on the cap sheet, who should be the lead investor? What are the characteristics of a great lead investor?&lt;br&gt;6.) Modwenna tells us a little about Crowdrating, what the site does and how CrowdRating (http://www.crowdrating.co.uk) assesses whether a project is a solid investment or not?&lt;br&gt;&lt;br&gt;Items Mentioned In Today’s Show:&lt;br&gt;Modwenna’s Fave Investing Resource: CB Insights (https://www.cbinsights.com)&lt;/p&gt;</itunes:summary>
+            <itunes:order>9980</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/ef35e5df-5e10-4703-bbb4-db142e742dd9?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲16 | The Wolf Den - 90: Ryan Hoover of Product Hunt]]></title>
+            <description><![CDATA[Ryan joins Adam Sachs to talk about the podcast industry]]></description>
+            <link>https://www.producthunt.com/podcasts/the-wolf-den-90-ryan-hoover-of-product-hunt</link>
+            <guid isPermaLink="false">http://feeds.soundcloud.com/stream/228441996-the-wolf-den-90-ryan-hoover-founder-of-product-hunt.mp3</guid>
+            <dc:creator><![CDATA[Ryan Hoover, Adam Sachs]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 13:07:56 GMT</pubDate>
+            <enclosure url="http://feeds.soundcloud.com/stream/228441996-the-wolf-den-90-ryan-hoover-founder-of-product-hunt.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Ryan Hoover, Adam Sachs</itunes:author>
+            <itunes:subtitle>Ryan joins Adam Sachs to talk about the podcast industry</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-wolf-den-90-ryan-hoover-of-product-hunt&apos;&gt;Ryan joins Adam Sachs to talk about the podcast industry&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@arsachs&apos;&gt;Adam Sachs&lt;/a&gt;: It was really fun to have @rrhoover on. I&apos;m excited about the effect that Product Hunt can have on building and engaging podcast fan communities. @kkliman @alexcartaz I really appreciate the support. Also, feedback is welcome!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kkliman&apos;&gt;Kevin Kliman&lt;/a&gt;: So many good insights from @arsachs conversations, and before that the original company founder in the early episodes. Every episode has great takeaways about the industry.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: Thanks for having me, @arsachs.  We talked a bit about podcast discovery and opportunity to grow communities around podcasts.  I&apos;m curious to hear from others.  Where do you discover new podcasts?  Do you share them on Twitter, FB, or more niche podcast-focused forums?&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: The Wolf Den is now one of my &quot;must listen to every episode&quot; podcasts. Great for keeping a pulse on the podcast meta. @jsneedles here&apos;s another one of the Hoover collection =)&lt;/p&gt;</itunes:summary>
+            <itunes:order>9983</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/c01a7cce-d767-40c6-8696-8e51493da915?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲12 | 99% Invisible - Structural Integrity]]></title>
+            <description><![CDATA[A story of architectural engineering gone wrong in NYC]]></description>
+            <link>https://www.producthunt.com/podcasts/99-invisible-structural-integrity</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/99percentinvisible/cdn.99percentinvisible.org/wp-content/uploads/110-Structural-Integrity.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 14:33:39 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/99percentinvisible/cdn.99percentinvisible.org/wp-content/uploads/110-Structural-Integrity.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>A story of architectural engineering gone wrong in NYC</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/99-invisible-structural-integrity&apos;&gt;A story of architectural engineering gone wrong in NYC&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@lylemckeany&apos;&gt;Lyle McKeany&lt;/a&gt;: I&apos;m glad they replayed this old episode since it aired before I had heard of 99pi. Great episode!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@tylerswartz&apos;&gt;Tyler Swartz&lt;/a&gt;: From their website: 99% Invisible is honored to accept a 2015 Third Coast International Audio Festival award for Structural Integrity, a story of architectural engineering gone wrong, and then covertly made right.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9987</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/f1b261f3-cd59-4452-868a-2d6b1e2f1b72?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲13 | Reactive - 12: Focus on the things that are cool]]></title>
+            <description><![CDATA[Twitter layoffs, npm Orgs, how to keep up.]]></description>
+            <link>https://www.producthunt.com/podcasts/reactive-12-focus-on-the-things-that-are-cool</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18491.mp3</guid>
+            <dc:creator><![CDATA[kahlil ✰, Henning Glatter-Götz]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 09:24:15 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18491.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>kahlil ✰, Henning Glatter-Götz</itunes:author>
+            <itunes:subtitle>Twitter layoffs, npm Orgs, how to keep up.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/reactive-12-focus-on-the-things-that-are-cool&apos;&gt;Twitter layoffs, npm Orgs, how to keep up.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@harrystebbings&apos;&gt;Harry Stebbings&lt;/a&gt;: @kahliltweets would love to hear what you think of @twentyminutevc we cover all things VC, startups, investments and of course twitter!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@harrystebbings&apos;&gt;Harry Stebbings&lt;/a&gt;: Really enjoyed this episode @kahliltweets definitely subscribing for the future. Great to hear your thoughts on Twitter for the older generation. Would love  to hear what you think will happen with Jack Dorsey being CEO of 2 publicly traded companies, with Square filing for IPO!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@hglattergotz&apos;&gt;Henning Glatter-Götz&lt;/a&gt;: This was a fun one to record&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kahliltweets&apos;&gt;kahlil ✰&lt;/a&gt;: Kahlil gave a talk on Observables. How do you keep up with technology? Twitter lays off a large number of employees. Twitter is for old people. Project management and software estimating is hard. The state of npm Orgs. Photoshop is dead and why Kahlil is going to keep his latest twitter handle for all times.&lt;br&gt;&lt;br&gt;Timeline&lt;br&gt;&lt;br&gt;00:00:00 Pre show, or not?&lt;br&gt;00:05:56 Intro&lt;br&gt;00:06:20 Kahlil&apos;s talk about Observables&lt;br&gt;00:18:40 Keeping up&lt;br&gt;00:29:37 Twitter layoffs&lt;br&gt;00:32:57 Twitter is for old people&lt;br&gt;00:37:26 Live coding&lt;br&gt;00:41:27 Frontend Masters Ember.js Workshop&lt;br&gt;00:43:33 Project management and software estimation&lt;br&gt;00:50:11 npm Orgs&lt;br&gt;00:56:35 New Slack members&lt;br&gt;00:58:36 Raquel&apos;s Slack Channel challenge&lt;br&gt;01:00:21 JSConf EU Impressions&lt;br&gt;01:01:03 Photoshop is dead&lt;br&gt;01:02:13 Computer Show&lt;br&gt;01:04:28 Why @kahliltweets?&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kahliltweets&apos;&gt;kahlil ✰&lt;/a&gt;: @harrystebbings I&apos;ll have a listen and let you know&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kahliltweets&apos;&gt;kahlil ✰&lt;/a&gt;: @harrystebbings hey thanks, glad you liked it and thanks for subscribing! I was actually thinking about that during the episode too. It&apos;ll be interesting to see how Jack does. I read the article by Ev where he detailed how they weighed all other options and that they truly truly believe that Jack can do both. What I like is that he is a product guy! I hope he can find the balance between satisfying shareholders and keeping Twitter cool for people like us 😉&lt;/p&gt;</itunes:summary>
+            <itunes:order>9986</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/168bad36-82d3-48e6-872e-5a7def96f9b7?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲10 | Full Stack Radio - 27: Ben Orenstein ]]></title>
+            <description><![CDATA[Talk about Outside-in TDD, Dependency Injection and Rails]]></description>
+            <link>https://www.producthunt.com/podcasts/full-stack-radio-27-ben-orenstein</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18390.mp3</guid>
+            <dc:creator><![CDATA[Ben Orenstein, Adam Wathan]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 10:54:36 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18390.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Ben Orenstein, Adam Wathan</itunes:author>
+            <itunes:subtitle>Talk about Outside-in TDD, Dependency Injection and Rails</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/full-stack-radio-27-ben-orenstein&apos;&gt;Talk about Outside-in TDD, Dependency Injection and Rails&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rstankov&apos;&gt;Radoslav Stankov&lt;/a&gt;: This reminded my about a lot of stuff I took for granted now days - like Outside in development, TDD, common Rails mistakes. &lt;br&gt;&lt;br&gt;At the very end the latest Corley Haines book - &quot;Understanding the 4 Rules of Simple Design&quot; gets mentioned.  They mentioned  - &quot;Don&apos;t use `new`, create a factory method describing the instance&quot; tip. I&apos;m doing quite often, but had forgotten from where I had picked it up.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9989</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/690ad90d-77c4-4e6c-ae8a-33483130ba15?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲9 | Nerdist Podcast - Bill Gates]]></title>
+            <description><![CDATA[Bill Gates' earliest memories of the computer revolution.]]></description>
+            <link>https://www.producthunt.com/podcasts/nerdist-podcast-bill-gates</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_627_-_Bill_Gates.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 14:22:38 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nerdist/Nerdist_627_-_Bill_Gates.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Bill Gates&apos; earliest memories of the computer revolution.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/nerdist-podcast-bill-gates&apos;&gt;Bill Gates&apos; earliest memories of the computer revolution.&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9990</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/2e46b4e1-4a0f-4672-b10c-cce779e74881?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲7 | Pitch - Cover songs]]></title>
+            <description><![CDATA[The do's and don'ts and why they are important]]></description>
+            <link>https://www.producthunt.com/podcasts/pitch-cover-songs</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/212814878/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 11:44:19 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/212814878/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>The do&apos;s and don&apos;ts and why they are important</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/pitch-cover-songs&apos;&gt;The do&apos;s and don&apos;ts and why they are important&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: This is a great introductory episode into Pitch, a narrative podcast about music hosted by @alexkapelman, exploring cover songs and why they are important&lt;/p&gt;</itunes:summary>
+            <itunes:order>9992</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/1f0fcf16-e1e8-466d-901c-3abcae5423db?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲6 | Salt of the Earth - 3: Shipyard Brewing Company Founder, Fred Forsley]]></title>
+            <description><![CDATA[Fred founded Shipyard with 400K+ credit card debt]]></description>
+            <link>https://www.producthunt.com/podcasts/salt-of-the-earth-3-shipyard-brewing-company-founder-fred-forsley</link>
+            <guid isPermaLink="false">http://hwcdn.libsyn.com/p/5/9/7/5972728303d67274/Fred_FINAL3_louder.mp3?c_id=10037388&amp;expiration=1444913328&amp;hwt=900635c20b4a78116e1e18f01b7ba0a7</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 11:38:22 GMT</pubDate>
+            <enclosure url="http://hwcdn.libsyn.com/p/5/9/7/5972728303d67274/Fred_FINAL3_louder.mp3?c_id=10037388&amp;expiration=1444913328&amp;hwt=900635c20b4a78116e1e18f01b7ba0a7" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Fred founded Shipyard with 400K+ credit card debt</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/salt-of-the-earth-3-shipyard-brewing-company-founder-fred-forsley&apos;&gt;Fred founded Shipyard with 400K+ credit card debt&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9993</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/e63eead3-093d-4434-ac3c-a5177a906655?auto=format&amp;w=260&amp;h=222"/>
+        </item>
+        <item>
+            <title><![CDATA[▲5 | Design Review - Designing with Empathy]]></title>
+            <description><![CDATA[Jonathan spends some time and talks about empathy in design]]></description>
+            <link>https://www.producthunt.com/podcasts/design-review-designing-with-empathy</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/228467967/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 15:53:20 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/228467967/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Jonathan spends some time and talks about empathy in design</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/design-review-designing-with-empathy&apos;&gt;Jonathan spends some time and talks about empathy in design&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9994</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/2520d6b7-572e-40b5-9103-3364dd3ae631?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲5 | Gentlemans Dub Club FM: Episode 1]]></title>
+            <description><![CDATA[1st in the series - a mix of Reggae, Ska, Dub & mashup style]]></description>
+            <link>https://www.producthunt.com/podcasts/gentlemans-dub-club-fm-episode-1</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/228493635/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 14:24:44 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/228493635/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>1st in the series - a mix of Reggae, Ska, Dub &amp; mashup style</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/gentlemans-dub-club-fm-episode-1&apos;&gt;1st in the series - a mix of Reggae, Ska, Dub &amp; mashup style&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@bentossell&apos;&gt;Ben Tossell&lt;/a&gt;: This is the first in the series of @Gentlemansdub podcast series.&lt;br&gt;&lt;br&gt;These guys are from the UK and I&apos;ve seen them multiple times, notably in Nottingham and Glastonbury Festival: they actually commented on my FB post about Glastonbury calling me an idiot (in good spirit) because me and my buddy were punching ourselves in the head going mad over the tunes. &lt;br&gt;&lt;br&gt;My favourite song of all time is covered (by Kiko Bun) in this podcast if you listen at 11 Minutes. &lt;br&gt;&lt;br&gt;Enjoy!&lt;br&gt;&lt;br&gt;Also this is my favourite song from @Gentlemansdub  : https://soundcloud.com/gentlemans-dub-club/gentlemans-sleng-ft-bongo-chilli&lt;/p&gt;</itunes:summary>
+            <itunes:order>9994</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/5518b102-1132-45b0-b326-23a1a9abb4ff?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲4 | JuRY - A podcast with Merritt]]></title>
+            <description><![CDATA[Tom Merritt and talks about the evolution of his Daily Tech ]]></description>
+            <link>https://www.producthunt.com/podcasts/jury-a-podcast-with-merritt</link>
+            <guid isPermaLink="false">http://static1.squarespace.com/static/50e0e422e4b03955129f6e2c/t/561dc535e4b0cc702070d46e/1444791696834/JuRY101315.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 12:49:05 GMT</pubDate>
+            <enclosure url="http://static1.squarespace.com/static/50e0e422e4b03955129f6e2c/t/561dc535e4b0cc702070d46e/1444791696834/JuRY101315.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Tom Merritt and talks about the evolution of his Daily Tech </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/jury-a-podcast-with-merritt&apos;&gt;Tom Merritt and talks about the evolution of his Daily Tech &lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9995</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/967aa9aa-8e0e-459e-a51d-990ea3e64947?auto=format&amp;w=260&amp;h=259"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | EOFire - Kevin Rogers: 60-second sales hook]]></title>
+            <description><![CDATA[John Lee Dumas chats with Kevin Rogers]]></description>
+            <link>https://www.producthunt.com/podcasts/eofire-kevin-rogers-60-second-sales-hook</link>
+            <guid isPermaLink="false">http://hwcdn.libsyn.com/p/e/2/8/e28f16cde117efa3/Kevin_Rogers_3.mp3?c_id=7451717&amp;expiration=1444222107&amp;hwt=7b3e2a5d83cbf1ac19f640165eeef84e</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 11:49:00 GMT</pubDate>
+            <enclosure url="http://hwcdn.libsyn.com/p/e/2/8/e28f16cde117efa3/Kevin_Rogers_3.mp3?c_id=7451717&amp;expiration=1444222107&amp;hwt=7b3e2a5d83cbf1ac19f640165eeef84e" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>John Lee Dumas chats with Kevin Rogers</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/eofire-kevin-rogers-60-second-sales-hook&apos;&gt;John Lee Dumas chats with Kevin Rogers&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/0e82b953-fe4c-4c99-8bbd-d08d7119abf9?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Top Score - Serious music for a casual game]]></title>
+            <description><![CDATA[Creating the music for Candy Crush Soda Saga]]></description>
+            <link>https://www.producthunt.com/podcasts/top-score-serious-music-for-a-casual-game</link>
+            <guid isPermaLink="false">http://download.publicradio.org/podcast/minnesota/classical/programs/top_score/2015/08/06/topscore_20150806_128.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 12:00:03 GMT</pubDate>
+            <enclosure url="http://download.publicradio.org/podcast/minnesota/classical/programs/top_score/2015/08/06/topscore_20150806_128.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Creating the music for Candy Crush Soda Saga</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/top-score-serious-music-for-a-casual-game&apos;&gt;Creating the music for Candy Crush Soda Saga&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: I really enjoy the premise of this podcast: interview the creators of iconic music from amazing video games. Can&apos;t wait to dive into the archives of this podcast!&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/41952a11-41ce-480b-9a7c-e9f6c34952d1?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | AppChat Radio - Episode 10 with Kevin Kliman of Raur.co]]></title>
+            <description><![CDATA[Discuss Raur.co's app and take on podcasting ]]></description>
+            <link>https://www.producthunt.com/podcasts/appchat-radio-episode-10-with-kevin-kliman-of-raur-co</link>
+            <guid isPermaLink="false">http://appchatradio.com/wp-content/uploads/2015/05/Episode-10-AppChat-Radio-.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 17:49:36 GMT</pubDate>
+            <enclosure url="http://appchatradio.com/wp-content/uploads/2015/05/Episode-10-AppChat-Radio-.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Discuss Raur.co&apos;s app and take on podcasting </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/appchat-radio-episode-10-with-kevin-kliman-of-raur-co&apos;&gt;Discuss Raur.co&apos;s app and take on podcasting &lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/153a37be-1003-45de-9462-9ac82e965f8b?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲1 | a16z Podcast: Secrets, Power Laws, and Technology – The Ideas of “Zero to One”]]></title>
+            <description><![CDATA[Zero to One: Chris Dixon interviews co-author Blake Masters]]></description>
+            <link>https://www.producthunt.com/podcasts/a16z-podcast-secrets-power-laws-and-technology-the-ideas-of-zero-to-one</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/167418247/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2015 19:27:42 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/167418247/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Zero to One: Chris Dixon interviews co-author Blake Masters</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/a16z-podcast-secrets-power-laws-and-technology-the-ideas-of-zero-to-one&apos;&gt;Zero to One: Chris Dixon interviews co-author Blake Masters&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9998</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/4a7421ad-e27b-4d9f-8b31-571ca5ad6623?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲28 | The Pitch - 8: Ironclad]]></title>
+            <description><![CDATA[The pitch from Ironclad, YC backed legal automation startup]]></description>
+            <link>https://www.producthunt.com/podcasts/the-pitch-8-ironclad</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/http://traffic.libsyn.com/thepitchvc/Ironclad.mp3</guid>
+            <dc:creator><![CDATA[Sheel Mohnot, Michael Cardamone, Josh Muccio, Jason Boehmig, Sophie Masure, Jacob Bendicksen, Sofia Pietrella]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 14:09:11 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/http://traffic.libsyn.com/thepitchvc/Ironclad.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Sheel Mohnot, Michael Cardamone, Josh Muccio, Jason Boehmig, Sophie Masure, Jacob Bendicksen, Sofia Pietrella</itunes:author>
+            <itunes:subtitle>The pitch from Ironclad, YC backed legal automation startup</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-pitch-8-ironclad&apos;&gt;The pitch from Ironclad, YC backed legal automation startup&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: Haha, @joshmuccio beat me to this hunt by 2 minutes.  I listened to the show this morning.&lt;br&gt;&lt;br&gt;I can definitely empathize with the pain of setting up, distributing, and managing legal docs.  Clerky is a useful tool used by most YC companies but it only streamlines a subset of the paperwork (right now).&lt;br&gt;&lt;br&gt;P.S. Here&apos;s &lt;a&gt;Ironclad&apos;s launch on Product Hunt&lt;/a&gt; from a few months ago.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@joshmuccio&apos;&gt;Josh Muccio&lt;/a&gt;: Hey PH family! Today we’re featuring Ironclad (http://producthunt.com/tech/ironclad), an automated assistant that handles legal paperwork. They are fresh out of Y Combinator and we met with founder Jason Boehmig in San Francisco.&lt;br&gt;&lt;br&gt;Listen as Jason pitches to... &lt;br&gt;&lt;br&gt;Michael Cardamone, managing director at Acceleprise, the SaaS incubator.&lt;br&gt;&lt;br&gt;Mar Hershenson, managing partner of Pejman Mar Ventures, where they invest in very early stage tech startups.&lt;br&gt;&lt;br&gt;Neil Devani, investor and GC at Rothenberg Ventures, where they invest in early stage companies with a focus on frontier technologies.&lt;br&gt;&lt;br&gt;Hope you like it... 😁&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@joshmuccio&apos;&gt;Josh Muccio&lt;/a&gt;: Well that&apos;s cool. Honored to be on your playlist @rrhoover&lt;br&gt;&lt;br&gt;I&apos;ll let you hunt the next one 😜&lt;br&gt;&lt;br&gt;You must like short podcasts?&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: @joshmuccio I actually like long podcasts too.  This Week in Tech and This Week in Startups are 1.5+ hours and I&apos;m a regular listener. 😊&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@pitdesi&apos;&gt;Sheel Mohnot&lt;/a&gt;: @rrhoover We need to get you as a guest! What kind of startups would you like to be on the panel for?&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: @pitdesi that would be really fun!  I&apos;m down for anything, but perhaps something consumer-focused.  That&apos;ll be more fun.  I&apos;m at ryan at producthunt.com.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@joshmuccio&apos;&gt;Josh Muccio&lt;/a&gt;: @rrhoover @pitdesi great idea! We&apos;re also open to startup recommendations. So when you run into an amazing consumer-focused startup let us know.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9971</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/8fce3854-2a71-4e92-bf7e-ef7a2dace954?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲19 | The Freelancer - A letter to a young freelancer]]></title>
+            <description><![CDATA[What I wish someone had told me about working for myself.]]></description>
+            <link>https://www.producthunt.com/podcasts/the-freelancer-a-letter-to-a-young-freelancer</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/227709362/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 16:47:04 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/227709362/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>What I wish someone had told me about working for myself.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-freelancer-a-letter-to-a-young-freelancer&apos;&gt;What I wish someone had told me about working for myself.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@markoxvee&apos;&gt;Marko Vuletič&lt;/a&gt;: Loved this one!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@daniellelecomte&apos;&gt;Danielle LeComte&lt;/a&gt;: Great letter, Paul. Love the &quot;buffer your promises&quot; tip - that is so important. Thanks for sharing this!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@pjrvs&apos;&gt;Paul Jarvis&lt;/a&gt;: @markoxvee Thanks Marko!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@pjrvs&apos;&gt;Paul Jarvis&lt;/a&gt;: @daniellelecomte Thanks Danielle!&lt;/p&gt;</itunes:summary>
+            <itunes:order>9980</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/ec58ac52-a1c0-49b9-b2c4-fc472b056909?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲18 | The Carthook Show - 6: Sid Bharath on the power of content marketing for e-commerce store owners]]></title>
+            <description><![CDATA[Sid is the marketing consultant & manager of Lemonstand Blog]]></description>
+            <link>https://www.producthunt.com/podcasts/the-carthook-show-6-sid-bharath-on-the-power-of-content-marketing-for-e-commerce-store-owners</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/carthook/The_CartHook_Show_6__Sid_Bharath_on_The_Power_of_Content_Marketing_for_E-Commerce_Store_Owners.mp3</guid>
+            <dc:creator><![CDATA[Jordan Gal]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 16:42:39 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/carthook/The_CartHook_Show_6__Sid_Bharath_on_The_Power_of_Content_Marketing_for_E-Commerce_Store_Owners.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Jordan Gal</itunes:author>
+            <itunes:subtitle>Sid is the marketing consultant &amp; manager of Lemonstand Blog</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-carthook-show-6-sid-bharath-on-the-power-of-content-marketing-for-e-commerce-store-owners&apos;&gt;Sid is the marketing consultant &amp; manager of Lemonstand Blog&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jordangal&apos;&gt;Jordan Gal&lt;/a&gt;: Thanks Luiz!  I&apos;ve really enjoyed doing the show.  And thanks to Sid for coming on and sharing his expertise.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@luizcent&apos;&gt;Luiz Centenaro &lt;/a&gt;: If you own an eCommerce store this is a must listen to podcast.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9981</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/2a6ba808-1323-4bd0-bf4f-7b6ba0042c0a?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲13 | The Startup Chat - 40: Your startup is surviving, but not thriving. quit or keep pushing?]]></title>
+            <description><![CDATA[This is not a binary “yes” or “no” answer.]]></description>
+            <link>https://www.producthunt.com/podcasts/the-startup-chat-40-your-startup-is-surviving-but-not-thriving-quit-or-keep-pushing</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/startup/TheStartupChat040.mp3</guid>
+            <dc:creator><![CDATA[Hiten Shah, Steli Efti]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 11:10:09 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/startup/TheStartupChat040.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Hiten Shah, Steli Efti</itunes:author>
+            <itunes:subtitle>This is not a binary “yes” or “no” answer.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-startup-chat-40-your-startup-is-surviving-but-not-thriving-quit-or-keep-pushing&apos;&gt;This is not a binary “yes” or “no” answer.&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9986</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/dd498d76-bbae-4298-9d04-f998b67ce1fa?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲13 | Radiolab - Smile my ass]]></title>
+            <description><![CDATA[Candid Camera has a scary run-in with reality.]]></description>
+            <link>https://www.producthunt.com/podcasts/radiolab-smile-my-ass</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/rl_extras/rl_extras15smilemyass.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 15:36:20 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/rl_extras/rl_extras15smilemyass.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Candid Camera has a scary run-in with reality.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/radiolab-smile-my-ass&apos;&gt;Candid Camera has a scary run-in with reality.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@ramesjamsay&apos;&gt;James Ramsay&lt;/a&gt;: Even if you&apos;ve never seen Candid Camera, you know the concept. In fact, the idea is so ubiquitous that people might be inclined to think they&apos;re on a hidden camera show, even when they&apos;re not. This episode of Radiolab is about how that becomes ... a problem.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9986</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/67b877be-daa5-4c61-af0e-0ecb16b9c82e?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲10 | Story in a Bottle - Inder Singh]]></title>
+            <description><![CDATA[Can the World's health problems be solved w/ a thermometer?]]></description>
+            <link>https://www.producthunt.com/podcasts/story-in-a-bottle-inder-singh</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/storyinabottle/SIAB_ISingh_v3.mp3?_=1</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 16:16:00 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/storyinabottle/SIAB_ISingh_v3.mp3?_=1" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Can the World&apos;s health problems be solved w/ a thermometer?</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/story-in-a-bottle-inder-singh&apos;&gt;Can the World&apos;s health problems be solved w/ a thermometer?&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9989</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/1679130d-bd43-40f9-935c-3836c1e89ee0?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲10 | The Twenty Minute VC - 79: with Peter Rojas, EIR @ Betaworks]]></title>
+            <description><![CDATA[Peter Rojas describes the changing venture landscape.]]></description>
+            <link>https://www.producthunt.com/podcasts/the-twenty-minute-vc-79-with-peter-rojas-eir-betaworks</link>
+            <guid isPermaLink="false">http://hwcdn.libsyn.com/p/7/d/a/7da0a5607d961f1b/79_20_VC_079-_Peter_Rojas_EIR_at_Betaworks.mp3?c_id=10032595&amp;expiration=1444821715&amp;hwt=c909028726a22f83228ac8ea1afee776</guid>
+            <dc:creator><![CDATA[Peter Rojas, Harry Stebbings]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 10:41:31 GMT</pubDate>
+            <enclosure url="http://hwcdn.libsyn.com/p/7/d/a/7da0a5607d961f1b/79_20_VC_079-_Peter_Rojas_EIR_at_Betaworks.mp3?c_id=10032595&amp;expiration=1444821715&amp;hwt=c909028726a22f83228ac8ea1afee776" length="0" type="audio/mpeg"/>
+            <itunes:author>Peter Rojas, Harry Stebbings</itunes:author>
+            <itunes:subtitle>Peter Rojas describes the changing venture landscape.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-twenty-minute-vc-79-with-peter-rojas-eir-betaworks&apos;&gt;Peter Rojas describes the changing venture landscape.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@peterrojas&apos;&gt;Peter Rojas&lt;/a&gt;: Thanks to Harry for having me on as a guest!&lt;/p&gt;</itunes:summary>
+            <itunes:order>9989</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/641a36e4-3e7c-4be9-91e4-02364e7b2e01?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲7 | Rocketship.fm - Fake it until you make it...perception is everything]]></title>
+            <description><![CDATA[Aman Mann, Co-Founder/CEO of Procurify, shares stories from ]]></description>
+            <link>https://www.producthunt.com/podcasts/rocketship-fm-fake-it-until-you-make-it-perception-is-everything</link>
+            <guid isPermaLink="false">http://simplecast.fm/media/15922.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 12:36:36 GMT</pubDate>
+            <enclosure url="http://simplecast.fm/media/15922.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Aman Mann, Co-Founder/CEO of Procurify, shares stories from </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/rocketship-fm-fake-it-until-you-make-it-perception-is-everything&apos;&gt;Aman Mann, Co-Founder/CEO of Procurify, shares stories from &lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@daniellegeva&apos;&gt;Danielle Geva&lt;/a&gt;: Good listen for early stage B2B companies.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9992</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/4a2c72ff-fa20-4f28-863f-b99690808364?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲6 | Note to Self - Can You Have a Whole Relationship Through Texts?]]></title>
+            <description><![CDATA[Does it matter if there's a real person on the other end?]]></description>
+            <link>https://www.producthunt.com/podcasts/note-to-self-can-you-have-a-whole-relationship-through-texts</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/notetoself/notetoself101415_cms538199_pod.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 15:17:04 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/notetoself/notetoself101415_cms538199_pod.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Does it matter if there&apos;s a real person on the other end?</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/note-to-self-can-you-have-a-whole-relationship-through-texts&apos;&gt;Does it matter if there&apos;s a real person on the other end?&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9993</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/127369be-315c-4c87-82a1-0a56d35da8d9?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲5 | A Tiny Sense of Accomplishment - 18: Marlon James and reading your own audio book]]></title>
+            <description><![CDATA[Marlon James discusses "A History of Seven Killings"]]></description>
+            <link>https://www.producthunt.com/podcasts/a-tiny-sense-of-accomplishment-18-marlon-james-and-reading-your-own-audio-book</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/TinySense/~5/JgGk7VJeMJo/atinysenseofaccomplishment_20150429_128.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 09:00:00 GMT</pubDate>
+            <enclosure url="http://feedproxy.google.com/~r/TinySense/~5/JgGk7VJeMJo/atinysenseofaccomplishment_20150429_128.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Marlon James discusses &quot;A History of Seven Killings&quot;</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/a-tiny-sense-of-accomplishment-18-marlon-james-and-reading-your-own-audio-book&apos;&gt;Marlon James discusses &quot;A History of Seven Killings&quot;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alilozoff&apos;&gt;Ali Lozoff&lt;/a&gt;: Marlon James just won the Man Booker Prize for his novel &quot;A Brief History of Seven Killings&quot;; this conversation with Sherman and Jess was so charming and insightful, and a must-listen for fans or those who are just hearing about this extraordinary book for the first time. A great introduction.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9994</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a5f2e414-ee79-4857-be6b-8fd4763b9c87?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Descriptive - 22: with Ashley Williams]]></title>
+            <description><![CDATA[Building abstractions that aren't ahistorical]]></description>
+            <link>https://www.producthunt.com/podcasts/descriptive-22-with-ashley-williams</link>
+            <guid isPermaLink="false">http://static1.squarespace.com/static/542864e4e4b04de32a8a5ece/t/561cf44be4b0601f5dcb8852/1444738331612/Descriptive+22.mp3</guid>
+            <dc:creator><![CDATA[kahlil ✰, Henning Glatter-Götz]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 14:23:22 GMT</pubDate>
+            <enclosure url="http://static1.squarespace.com/static/542864e4e4b04de32a8a5ece/t/561cf44be4b0601f5dcb8852/1444738331612/Descriptive+22.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>kahlil ✰, Henning Glatter-Götz</itunes:author>
+            <itunes:subtitle>Building abstractions that aren&apos;t ahistorical</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/descriptive-22-with-ashley-williams&apos;&gt;Building abstractions that aren&apos;t ahistorical&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kahliltweets&apos;&gt;kahlil ✰&lt;/a&gt;: @kahliltweets and @hglattergotz talk to @ag_dubs about her introduction to computers and programming with Logo and HyperCard. Ashley explains how her degrees in philosophy and neuroscience help her reason about program architecture and where her interest in teaching comes from. She becomes the lead instructor at Flatiron School after being rejected as a student, which leads to many different teaching and speaking engagements. Before taking a position at npm, Inc. she also worked at Mozilla and Bocoup.&lt;br&gt;&lt;br&gt;Highlights&lt;br&gt;&lt;br&gt;[00:00:00] Kahlil welcomes Ashley Williams to the show&lt;br&gt;[00:00:58] Logo&lt;br&gt;[00:01:42] HyperCard&lt;br&gt;[00:06:35] Philosophy and Neuroscience&lt;br&gt;[00:22:02] Where @ag_dubs comes from&lt;br&gt;[00:23:46] Teaching&lt;br&gt;[00:35:24] From rejected student to lead instructor&lt;br&gt;[00:42:27] NYC Web Development Fellowship&lt;br&gt;[00:49:44] bocoup&lt;br&gt;[00:51:19] endpoints&lt;br&gt;[00:59:32] APIs and API driven development&lt;br&gt;[01:01:56] Ashley&apos;s personal website&lt;br&gt;[01:07:26] Mozilla&lt;br&gt;[01:08:56] Low Cost Education&lt;br&gt;[01:12:02] Conference Talks&lt;br&gt;[01:14:56] npm, Inc.&lt;br&gt;[01:25:18] Writing documentation&lt;br&gt;[01:34:33] Picks&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/c634c42f-7e26-4749-b3c7-4628e1934a86?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | EOFire - Jon Morrow: bost blog traffic]]></title>
+            <description><![CDATA[John Lee Dumas chats with Jon Morrow]]></description>
+            <link>https://www.producthunt.com/podcasts/eofire-jon-morrow-bost-blog-traffic</link>
+            <guid isPermaLink="false">http://hwcdn.libsyn.com/p/2/3/4/234e08e8b380c1df/Jon_Morrow.mp3?c_id=7334654&amp;expiration=1444221464&amp;hwt=52a07680d601803a5642e11e02a38939</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 11:47:00 GMT</pubDate>
+            <enclosure url="http://hwcdn.libsyn.com/p/2/3/4/234e08e8b380c1df/Jon_Morrow.mp3?c_id=7334654&amp;expiration=1444221464&amp;hwt=52a07680d601803a5642e11e02a38939" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>John Lee Dumas chats with Jon Morrow</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/eofire-jon-morrow-bost-blog-traffic&apos;&gt;John Lee Dumas chats with Jon Morrow&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/ed916b29-3e8a-4c1e-bfe5-8d3c52f9da9a?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Descriptive - 21: with Steve Francia]]></title>
+            <description><![CDATA[I will not get in the way of my projects success]]></description>
+            <link>https://www.producthunt.com/podcasts/descriptive-21-with-steve-francia</link>
+            <guid isPermaLink="false">http://static1.squarespace.com/static/542864e4e4b04de32a8a5ece/t/55cfa9f1e4b02198ab2a793e/1439673982950/Descriptive+21.mp3</guid>
+            <dc:creator><![CDATA[kahlil ✰, Steve Francia, Henning Glatter-Götz]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 14:32:47 GMT</pubDate>
+            <enclosure url="http://static1.squarespace.com/static/542864e4e4b04de32a8a5ece/t/55cfa9f1e4b02198ab2a793e/1439673982950/Descriptive+21.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>kahlil ✰, Steve Francia, Henning Glatter-Götz</itunes:author>
+            <itunes:subtitle>I will not get in the way of my projects success</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/descriptive-21-with-steve-francia&apos;&gt;I will not get in the way of my projects success&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@kahliltweets&apos;&gt;kahlil ✰&lt;/a&gt;: We talk to Steve Francia about his introduction to programming with a Texas Instrument Calculator, Zoop Framework, Blogging, MongoDB, Vim Distributions, Go &amp;amp; Hugo and many other stops in his career up to his current job at Docker and his numerous speaking engagemens on a large variety of topics.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a8751c61-f0e6-427e-8efa-139ec3400941?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Work Smart #2 - Jason Welsher, To Die for Clothing CEO]]></title>
+            <description><![CDATA[Listen in as Jason shares his best productivity tips]]></description>
+            <link>https://www.producthunt.com/podcasts/work-smart-2-jason-welsher-to-die-for-clothing-ceo</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/213858555/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Ray Gillenwater]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 12:49:02 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/213858555/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Ray Gillenwater</itunes:author>
+            <itunes:subtitle>Listen in as Jason shares his best productivity tips</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/work-smart-2-jason-welsher-to-die-for-clothing-ceo&apos;&gt;Listen in as Jason shares his best productivity tips&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@raygwater&apos;&gt;Ray Gillenwater&lt;/a&gt;: Ray here, the host - would love any feedback or comments!&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/64542db1-204d-4aac-bbd1-4a7934615e89?auto=format&amp;w=260&amp;h=258"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | You Must Remember This - Charles Manson's Hollywood Part 3: The Beach Boys, Dennis Wilson]]></title>
+            <description><![CDATA[Learn the story of Beach Boy connection to the Manson Family]]></description>
+            <link>https://www.producthunt.com/podcasts/you-must-remember-this-charles-manson-s-hollywood-part-3-the-beach-boys-dennis-wilson</link>
+            <guid isPermaLink="false">http://feedproxy.google.com/~r/MustRememberThis/~5/KIPCG5mqkU4/46-CharlesMansonDennisWilson-PANOPLY.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 12:09:17 GMT</pubDate>
+            <enclosure url="http://feedproxy.google.com/~r/MustRememberThis/~5/KIPCG5mqkU4/46-CharlesMansonDennisWilson-PANOPLY.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Learn the story of Beach Boy connection to the Manson Family</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/you-must-remember-this-charles-manson-s-hollywood-part-3-the-beach-boys-dennis-wilson&apos;&gt;Learn the story of Beach Boy connection to the Manson Family&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@bdougieyo&apos;&gt;Brian Douglas&lt;/a&gt;: I did not know much about the Charles Manson murders and wasn&apos;t all that interested until this podcast. I found how deep the connections to Hollywood extremely surprising. This episode focuses on the connections the Beach boy drummer and how Manson Family influence him enough to get a song of Manson&apos;s on an album.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/71bc0346-622b-4a11-bf55-ef23909978cf?auto=format&amp;w=260&amp;h=258"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | This Developing Story - 33: Step by step refactoring]]></title>
+            <description><![CDATA[A review of an interview on refactoring JavaScript Framework]]></description>
+            <link>https://www.producthunt.com/podcasts/this-developing-story-33-step-by-step-refactoring</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18410.mp3</guid>
+            <dc:creator><![CDATA[Brian Douglas]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 11:58:58 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18410.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Brian Douglas</itunes:author>
+            <itunes:subtitle>A review of an interview on refactoring JavaScript Framework</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/this-developing-story-33-step-by-step-refactoring&apos;&gt;A review of an interview on refactoring JavaScript Framework&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@bdougieyo&apos;&gt;Brian Douglas&lt;/a&gt;: Hi, I do a podcast on my experiences as a new developer in SF. I take a break from my normal format of an audio diary and review an interview I was really impressed with about approaching refactoring JavaScript to add a framework.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a2a4fc9b-b3cb-41f7-8999-7763d961358b?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | Whistlestop - Donald Trump vs. Ross Perot]]></title>
+            <description><![CDATA[The presidential ambitions of two ego-driven billionaires.]]></description>
+            <link>https://www.producthunt.com/podcasts/whistlestop-donald-trump-vs-ross-perot</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/whistlestop/WS15091601_Whistle.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 15:05:32 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/whistlestop/WS15091601_Whistle.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>The presidential ambitions of two ego-driven billionaires.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/whistlestop-donald-trump-vs-ross-perot&apos;&gt;The presidential ambitions of two ego-driven billionaires.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jfilcik&apos;&gt;Joe Filcik&lt;/a&gt;: Whistlestop is masterfully told stories about U.S. Presidential campaigns of the past. John Dickerson, host of Face the Nation, is a master storyteller. This episode is funny and enlightening. Everything old is new again.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: @jfilcik this looks really interesting, can&apos;t wait to listen&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/3639e308-f358-4d28-b14b-482f06e80f0c?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | CNN Debates - First democratic presidential candidate debate (part 1)]]></title>
+            <description><![CDATA[The first hour of the debate]]></description>
+            <link>https://www.producthunt.com/podcasts/cnn-debates-first-democratic-presidential-candidate-debate-part-1</link>
+            <guid isPermaLink="false">http://rss.cnn.com/c/35492/f/678016/e/1/s/4aa72047/sc/3/l/0Mget0Bpalegroove0N0Capp0Emedia0Cpg0Edebates0Call0C1kuy6iSZhXkKQS0Cdem0Edebate0E20A150E10A0E130E0A10Bmp3/dem-debate-2015-10-13-01.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 07:00:00 GMT</pubDate>
+            <enclosure url="http://rss.cnn.com/c/35492/f/678016/e/1/s/4aa72047/sc/3/l/0Mget0Bpalegroove0N0Capp0Emedia0Cpg0Edebates0Call0C1kuy6iSZhXkKQS0Cdem0Edebate0E20A150E10A0E130E0A10Bmp3/dem-debate-2015-10-13-01.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>The first hour of the debate</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/cnn-debates-first-democratic-presidential-candidate-debate-part-1&apos;&gt;The first hour of the debate&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: I really enjoyed watching these debates and the podcast form is a great way to listen to them if you missed the debates.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/fd21a2f8-d065-4c54-bcd5-2f154a89820b?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | CNN Debates - First democratic presidential candidate debate (part 2)]]></title>
+            <description><![CDATA[The second hour of the debate]]></description>
+            <link>https://www.producthunt.com/podcasts/cnn-debates-first-democratic-presidential-candidate-debate-part-2</link>
+            <guid isPermaLink="false">http://rss.cnn.com/c/35492/f/678016/e/1/s/4aa72048/sc/3/l/0Mget0Bpalegroove0N0Capp0Emedia0Cpg0Edebates0Call0Cc6YqEOv8rzIplT0Cdem0Edebate0E20A150E10A0E130E0A20Bmp3/dem-debate-2015-10-13-02.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 07:00:00 GMT</pubDate>
+            <enclosure url="http://rss.cnn.com/c/35492/f/678016/e/1/s/4aa72048/sc/3/l/0Mget0Bpalegroove0N0Capp0Emedia0Cpg0Edebates0Call0Cc6YqEOv8rzIplT0Cdem0Edebate0E20A150E10A0E130E0A20Bmp3/dem-debate-2015-10-13-02.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>The second hour of the debate</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/cnn-debates-first-democratic-presidential-candidate-debate-part-2&apos;&gt;The second hour of the debate&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: I thought this debate was interesting and insightful.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/b3011e21-ceed-4c82-b36a-24d050df666b?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲27 | Dorm Room Tycoon - On writing well with Malcolm Gladwell]]></title>
+            <description><![CDATA[Malcolm Gladwell reveals his writing process. ]]></description>
+            <link>https://www.producthunt.com/podcasts/dorm-room-tycoon-on-writing-well-with-malcolm-gladwell</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/222172386/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[William Channer]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 08:11:48 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/222172386/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>William Channer</itunes:author>
+            <itunes:subtitle>Malcolm Gladwell reveals his writing process. </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/dorm-room-tycoon-on-writing-well-with-malcolm-gladwell&apos;&gt;Malcolm Gladwell reveals his writing process. &lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@williamchanner&apos;&gt;William Channer&lt;/a&gt;: You can also read the transcript http://drt.fm/malcolm-gladwell/#!/transcript&lt;/p&gt;</itunes:summary>
+            <itunes:order>9972</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/140e43dc-b21d-4b19-b355-936a6b012804?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲22 | Hatching #18 - How To Have Your Biggest Sales Month Ever]]></title>
+            <description><![CDATA[Hatching is a semi-regular podcast about new products, ideas]]></description>
+            <link>https://www.producthunt.com/podcasts/hatching-18-how-to-have-your-biggest-sales-month-ever</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/228225627/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Jon Wheatley , Marshall Haas, David Myers]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 16:22:38 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/228225627/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Jon Wheatley , Marshall Haas, David Myers</itunes:author>
+            <itunes:subtitle>Hatching is a semi-regular podcast about new products, ideas</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/hatching-18-how-to-have-your-biggest-sales-month-ever&apos;&gt;Hatching is a semi-regular podcast about new products, ideas&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@imaiexander&apos;&gt;Alexander Sutherland&lt;/a&gt;: Great episode!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@codybeckstl&apos;&gt;Cody Beck&lt;/a&gt;: Podcast and blog are both awesome. I love companies who teach what they&apos;ve learned through transparent content.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@terrygseo&apos;&gt;Terry G&lt;/a&gt;: Great podcast. Love the video option as well.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: I&apos;ve been meaning to tune into your podcast, Need/Want fellas.  If you haven&apos;t already, I would love for you guys to talk about your process for coming up with new product ideas.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@marshal&apos;&gt;Marshall Haas&lt;/a&gt;: @rrhoover Hatching #13 baby!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@rrhoover&apos;&gt;Ryan Hoover&lt;/a&gt;: @marshal I should have known. 😁&lt;/p&gt;</itunes:summary>
+            <itunes:order>9977</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a4e7b67b-6a53-4f23-a559-fb1e3b8fb4fb?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲21 | The Tim Ferriss Show - Jane McGonigal on getting more done]]></title>
+            <description><![CDATA[Can games be harnessed to make our lives better?]]></description>
+            <link>https://www.producthunt.com/podcasts/the-tim-ferriss-show-jane-mcgonigal-on-getting-more-done</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Jane_McGonigal.mp3</guid>
+            <dc:creator><![CDATA[Jane McGonigal]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 09:00:00 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Jane_McGonigal.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Jane McGonigal</itunes:author>
+            <itunes:subtitle>Can games be harnessed to make our lives better?</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-tim-ferriss-show-jane-mcgonigal-on-getting-more-done&apos;&gt;Can games be harnessed to make our lives better?&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jfilcik&apos;&gt;Joe Filcik&lt;/a&gt;: Cool episode. Over the past couple months I&apos;ve heard Jane McGonigal interviewed on several podcasts, on her book tour. It&apos;s interesting how different the various interviews are. The interviewer impacts the discussion a lot (btw - same is true for Stanley Mcchrystal on both Tim&apos;s show and the Linkedin Speakers series). Makes me think that pivoting on Guests or the People in the episode could become a really interesting pivot for Product Hunt Podcasts. @AlexCartaz, have you thought about that? I guess makers give you that pivot, as long as Guests get added as makers.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@harrystebbings&apos;&gt;Harry Stebbings&lt;/a&gt;: I found this so inspiring to hear @avantgame talk about the amazing struggle she faced after hitting her head. Absolutely amazing lady and so inspiring. Used her TED video before my exams to make nerves my friend! @tferriss awesome as always!&lt;/p&gt;</itunes:summary>
+            <itunes:order>9978</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/90b5df0e-68f3-4b79-93bc-910d195dc79b?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲20 | Rocketship.fm - Iterating Your Way to Product-Market-Fit]]></title>
+            <description><![CDATA[PMF isn't a solid milestone, it's nebulous.]]></description>
+            <link>https://www.producthunt.com/podcasts/rocketship-fm-iterating-your-way-to-product-market-fit</link>
+            <guid isPermaLink="false">http://simplecast.fm/media/17938.mp3</guid>
+            <dc:creator><![CDATA[Michael Sacca, Joelle Steiniger]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 16:15:09 GMT</pubDate>
+            <enclosure url="http://simplecast.fm/media/17938.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Michael Sacca, Joelle Steiniger</itunes:author>
+            <itunes:subtitle>PMF isn&apos;t a solid milestone, it&apos;s nebulous.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/rocketship-fm-iterating-your-way-to-product-market-fit&apos;&gt;PMF isn&apos;t a solid milestone, it&apos;s nebulous.&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9979</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/6963da07-58d9-4828-abdd-d9ce3d615b42?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲20 | Discover Meteor - Security]]></title>
+            <description><![CDATA[What you need to know to make your Meteor apps secure]]></description>
+            <link>https://www.producthunt.com/podcasts/discover-meteor-security</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18407.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 01:38:01 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18407.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>What you need to know to make your Meteor apps secure</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/discover-meteor-security&apos;&gt;What you need to know to make your Meteor apps secure&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9979</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/b6358ef6-e770-46de-8b5d-2853339971e8?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲14 | Hopes & Pains – Michael Sacca]]></title>
+            <description><![CDATA[Eight minutes of honesty on worry, balance, and purpose.]]></description>
+            <link>https://www.producthunt.com/podcasts/hopes-pains-michael-sacca</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/227296020/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Thomas Knoll]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 15:45:15 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/227296020/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Thomas Knoll</itunes:author>
+            <itunes:subtitle>Eight minutes of honesty on worry, balance, and purpose.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/hopes-pains-michael-sacca&apos;&gt;Eight minutes of honesty on worry, balance, and purpose.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@conrey&apos;&gt;Chris Conrey&lt;/a&gt;: As a guest on one of these episodes it&apos;s nice to have others comment on your Hopes and Pains as well as seeing others who are in the same boat and have the same things in their heads. Being &quot;not alone&quot; is a powerful boost.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jgulden&apos;&gt;Josiah Austin Gulden&lt;/a&gt;: Loving the simplicity and honesty of @thomasknoll&apos;s new podcast &quot;Hopes &amp;amp; Pains&quot;. This episode features PH OG @michaelsacca, who shares his thoughts on three things that most entrepreneurs and makers are all too familiar with: the pervasiveness of worry, the elusiveness of balance, and a burning desire to make a meaningful impact. Eight minutes well spent!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@thomasknoll&apos;&gt;Thomas Knoll&lt;/a&gt;: @conrey an honor to have you sir! The not-being-alone-ness is the most exciting part of this whole project for me.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@thomasknoll&apos;&gt;Thomas Knoll&lt;/a&gt;: @jgulden Thank you for the kind words. This has been an eye opening experience to say the least.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9985</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/be84e794-7d81-4a56-a6b7-8346a1c71036?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲14 | Another Round - Madam Secretary, what's good?]]></title>
+            <description><![CDATA[ Heben and Tracy chat with Hillary Clinton]]></description>
+            <link>https://www.producthunt.com/podcasts/another-round-madam-secretary-what-s-good</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/227991575/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 13:19:46 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/227991575/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle> Heben and Tracy chat with Hillary Clinton</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/another-round-madam-secretary-what-s-good&apos;&gt; Heben and Tracy chat with Hillary Clinton&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@smalleyez&apos;&gt;SmallEyez&lt;/a&gt;: really really feelin the vibes and dialogue. funny. refreshing and relevant!!! more of this diversity is needed in the podcast world. were out here just need that light shone!! very powerful moments captured with possibly the future president of america!&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alexcartaz&apos;&gt;Alex Carter&lt;/a&gt;: This is an amazing chat with Hillary. Heben and Tracy talk about policy, sexism on the Hill, and also don&apos;t pull any punches when asking Hillary hard questions, like:&lt;br&gt;&lt;br&gt;&quot;A lot of people feel like you and your husband, former president Bill Clinton, are implicit in the policies that were passed in the 90&apos;s. The tough on crime initiative, the 3 strikes rule. I feel like what a lot of black people are looking for is for you and your husband to shoulder some responsibility... do you ever look at the state of Black America, regardless of what your intentions were... and say &apos;wow we really fucked this up for black people&apos;?&quot;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9985</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/d5cfffb8-3b72-4549-b07f-cbbe60855991?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲33 | Curious Minds - Digital information preservation & future archaeology]]></title>
+            <description><![CDATA[A lesson about data preservation and its pitfalls.  ]]></description>
+            <link>https://www.producthunt.com/podcasts/curious-minds-digital-information-preservation-future-archaeology</link>
+            <guid isPermaLink="false">http://ranlevi.podbean.com/mf/play/dkax9m/CM_Info_Preservation_Final.mp3</guid>
+            <dc:creator><![CDATA[Ran Levi]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 08:54:25 GMT</pubDate>
+            <enclosure url="http://ranlevi.podbean.com/mf/play/dkax9m/CM_Info_Preservation_Final.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Ran Levi</itunes:author>
+            <itunes:subtitle>A lesson about data preservation and its pitfalls.  </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/curious-minds-digital-information-preservation-future-archaeology&apos;&gt;A lesson about data preservation and its pitfalls.  &lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9966</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/4a5fd25b-8deb-4303-9522-0dd2fd837bd0?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲10 | Developer Tea — Feature runways]]></title>
+            <description><![CDATA[Podcast for developers designed to fit inside your tea break]]></description>
+            <link>https://www.producthunt.com/podcasts/developer-tea-feature-runways</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18126.mp3</guid>
+            <dc:creator><![CDATA[Jonathan Cutrell]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 08:26:31 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18126.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Jonathan Cutrell</itunes:author>
+            <itunes:subtitle>Podcast for developers designed to fit inside your tea break</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/developer-tea-feature-runways&apos;&gt;Podcast for developers designed to fit inside your tea break&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9989</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/3fa1458b-c11a-4ad9-9fe4-5cf2ce0f4687?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲6 | Revision Path - 100: Sarah Huny Young]]></title>
+            <description><![CDATA[A deep conversation with creative director Sarah Huny Young]]></description>
+            <link>https://www.producthunt.com/podcasts/revision-path-100-sarah-huny-young</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/17205.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 13:10:27 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/17205.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>A deep conversation with creative director Sarah Huny Young</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/revision-path-100-sarah-huny-young&apos;&gt;A deep conversation with creative director Sarah Huny Young&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@mauricecherry&apos;&gt;Maurice Cherry&lt;/a&gt;: For Revision Path’s 100th interview, I had the opportunity to talk with design powerhouse Sarah Huny Young. Huny’s portfolio speaks for itself, and she’s done next-level design work for big entertainment brands like VIBE Magazine and BET. Currently, she’s the founder of Supreme Clientele, a design agency in Pittsburgh, PA that has done work for award-winning websites like VSB, Soulbounce, The Curvy Fashionista, and the Women’s Freedom Conference.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9993</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/ef4fd681-2e3e-4075-b58d-186c902c9622?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲6 | Corner Office - Elon Musk: The future runs on batteries]]></title>
+            <description><![CDATA[Battery technology and the future of global transportation. ]]></description>
+            <link>https://www.producthunt.com/podcasts/corner-office-elon-musk-the-future-runs-on-batteries</link>
+            <guid isPermaLink="false">http://download.publicradio.org/podcast/marketplace/corner_office_marketplace/2015/10/12/corneroffice_20151012_64.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 08:18:13 GMT</pubDate>
+            <enclosure url="http://download.publicradio.org/podcast/marketplace/corner_office_marketplace/2015/10/12/corneroffice_20151012_64.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Battery technology and the future of global transportation. </itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/corner-office-elon-musk-the-future-runs-on-batteries&apos;&gt;Battery technology and the future of global transportation. &lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9993</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/d0465476-e741-4ada-b11f-9991c6b4e6a1?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲4 | The Tim Ferriss Show - Should You Start a ‘Startup’ or Build a Cash-Flow Business?]]></title>
+            <description><![CDATA[Startup design vs. lifestyle design]]></description>
+            <link>https://www.producthunt.com/podcasts/the-tim-ferriss-show-should-you-start-a-startup-or-build-a-cash-flow-business</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Expa.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2015 04:43:51 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Expa.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Startup design vs. lifestyle design</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-tim-ferriss-show-should-you-start-a-startup-or-build-a-cash-flow-business&apos;&gt;Startup design vs. lifestyle design&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9995</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/8a7bfe98-c3b0-4335-ab75-412ad9d688fc?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲4 | Vitaly Golomb - Entrepreneur, Investor, 500 Startups Mentor, Author, Award-Winning Designer, Keynote Speaker]]></title>
+            <description><![CDATA[Investing, startups, his upcoming book, startup documentary]]></description>
+            <link>https://www.producthunt.com/podcasts/vitaly-golomb-entrepreneur-investor-500-startups-mentor-author-award-winning-designer-keynote-speaker</link>
+            <guid isPermaLink="false">http://audio.simplecast.fm/18416.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 15:39:16 GMT</pubDate>
+            <enclosure url="http://audio.simplecast.fm/18416.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Investing, startups, his upcoming book, startup documentary</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/vitaly-golomb-entrepreneur-investor-500-startups-mentor-author-award-winning-designer-keynote-speaker&apos;&gt;Investing, startups, his upcoming book, startup documentary&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9995</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/545cc3f7-f820-44fa-8d39-2133ae171143?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Only Human - Your Sanity or Your Kidneys]]></title>
+            <description><![CDATA[Lithium has kept Jaime Lowe sane. Now it's making her sick.]]></description>
+            <link>https://www.producthunt.com/podcasts/only-human-your-sanity-or-your-kidneys</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/onlyhuman/onlyhuman101315_cms537324_pod.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 14:59:18 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/onlyhuman/onlyhuman101315_cms537324_pod.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Lithium has kept Jaime Lowe sane. Now it&apos;s making her sick.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/only-human-your-sanity-or-your-kidneys&apos;&gt;Lithium has kept Jaime Lowe sane. Now it&apos;s making her sick.&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/f6cc37c2-de74-48ab-ac42-1e4c795a0c18?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Courageous Self-Confidence - These Two People Will Sabotage Your Success | 041]]></title>
+            <description><![CDATA[The Victim And The Judge]]></description>
+            <link>https://www.producthunt.com/podcasts/courageous-self-confidence-these-two-people-will-sabotage-your-success-041</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/courageousselfconfidence/041-the-victim-and-the-judge.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 21:16:15 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/courageousselfconfidence/041-the-victim-and-the-judge.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>The Victim And The Judge</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/courageous-self-confidence-these-two-people-will-sabotage-your-success-041&apos;&gt;The Victim And The Judge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@daniellegeva&apos;&gt;Danielle Geva&lt;/a&gt;: I love that Samuel acknowledges that the two types can be other people or yourself.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/fd5fe375-87e3-47ce-8478-90987d2ed026?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Here's The Thing - Carol Burnett interview]]></title>
+            <description><![CDATA[Carol Burnett tells Alec Baldwin about nudist dancers, etc.]]></description>
+            <link>https://www.producthunt.com/podcasts/here-s-the-thing-carol-burnett-interview</link>
+            <guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/heresthething/heresthething101315_burnett.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 15:03:40 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/heresthething/heresthething101315_burnett.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Carol Burnett tells Alec Baldwin about nudist dancers, etc.</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/here-s-the-thing-carol-burnett-interview&apos;&gt;Carol Burnett tells Alec Baldwin about nudist dancers, etc.&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a247bf1f-1ef5-431b-b691-8611ebad1433?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲3 | Seedcamp Podcast - Stephen Forte, Managing Partner at Fresco Capital]]></title>
+            <description><![CDATA[The key skills a technical cofounder should develop]]></description>
+            <link>https://www.producthunt.com/podcasts/seedcamp-podcast-stephen-forte-managing-partner-at-fresco-capital</link>
+            <guid isPermaLink="false">http://api.soundcloud.com/tracks/228186291/stream?consumer_key=4f917f233859b18e40ae49ddec42442c</guid>
+            <dc:creator><![CDATA[Stephen Forte]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 11:15:24 GMT</pubDate>
+            <enclosure url="http://api.soundcloud.com/tracks/228186291/stream?consumer_key=4f917f233859b18e40ae49ddec42442c" length="0" type="audio/mpeg"/>
+            <itunes:author>Stephen Forte</itunes:author>
+            <itunes:subtitle>The key skills a technical cofounder should develop</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/seedcamp-podcast-stephen-forte-managing-partner-at-fresco-capital&apos;&gt;The key skills a technical cofounder should develop&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9996</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/78002446-61b1-4e22-8c51-d024fb61d0ba?auto=format&amp;w=260&amp;h=258"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | EOFire - T Harv Eker: Secrets of the Millionaire Mind]]></title>
+            <description><![CDATA[John Lee Dumas chats with T Harv Eker]]></description>
+            <link>https://www.producthunt.com/podcasts/eofire-t-harv-eker-secrets-of-the-millionaire-mind</link>
+            <guid isPermaLink="false">http://hwcdn.libsyn.com/p/c/d/7/cd72092468fd0b61/T._Harv_Eker.mp3?c_id=7730645&amp;expiration=1444221668&amp;hwt=cfda25fb43c418df1a3b801ac6bbf3db</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 11:46:00 GMT</pubDate>
+            <enclosure url="http://hwcdn.libsyn.com/p/c/d/7/cd72092468fd0b61/T._Harv_Eker.mp3?c_id=7730645&amp;expiration=1444221668&amp;hwt=cfda25fb43c418df1a3b801ac6bbf3db" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>John Lee Dumas chats with T Harv Eker</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/eofire-t-harv-eker-secrets-of-the-millionaire-mind&apos;&gt;John Lee Dumas chats with T Harv Eker&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jakecrump&apos;&gt;Jake Crump&lt;/a&gt;: Really interesting to hear how quickly he skyrocketed to being a millionaire after a lot of time with no traction. Very cool story.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/05a42d40-4d1c-4e25-9b48-2ca40ad34e9d?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | Aw Jeez: A ‘Fargo’ Podcast - 1: Season one and the Coen brothers]]></title>
+            <description><![CDATA[All about the murders, mayhem & Minnesota-ness in the FX hit]]></description>
+            <link>https://www.producthunt.com/podcasts/aw-jeez-a-fargo-podcast-1-season-one-and-the-coen-brothers</link>
+            <guid isPermaLink="false">http://play.publicradio.org/default/d/podcast/minnesota/podcasts/aw_jeez/2015/10/fargo_20151006_1_20151006_64.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 10:17:04 GMT</pubDate>
+            <enclosure url="http://play.publicradio.org/default/d/podcast/minnesota/podcasts/aw_jeez/2015/10/fargo_20151006_1_20151006_64.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>All about the murders, mayhem &amp; Minnesota-ness in the FX hit</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/aw-jeez-a-fargo-podcast-1-season-one-and-the-coen-brothers&apos;&gt;All about the murders, mayhem &amp; Minnesota-ness in the FX hit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@alilozoff&apos;&gt;Ali Lozoff&lt;/a&gt;: So - did anyone watch the first episode of Fargo Season 2 tonight? Any thoughts? The 2nd episode of Aw Jeez the recap podcast will post tomorrow. SPOILER ALERTS! (obvs.)&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/6d63f24d-e461-45cd-9a9e-37f762e4397c?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | EconTalk - Pete Boettke on Katrina, ten years after]]></title>
+            <description><![CDATA[Lessons learned from Katrina recovery after 10 yrs of study]]></description>
+            <link>https://www.producthunt.com/podcasts/econtalk-pete-boettke-on-katrina-ten-years-after</link>
+            <guid isPermaLink="false">http://files.libertyfund.org/econtalk/y2015/Boettkekatrinaten.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 12:42:38 GMT</pubDate>
+            <enclosure url="http://files.libertyfund.org/econtalk/y2015/Boettkekatrinaten.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Lessons learned from Katrina recovery after 10 yrs of study</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/econtalk-pete-boettke-on-katrina-ten-years-after&apos;&gt;Lessons learned from Katrina recovery after 10 yrs of study&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jfilcik&apos;&gt;Joe Filcik&lt;/a&gt;: Russ here does a followup interview with Prof. Pete Boettke whose been leading a team studying the on-the-ground reality of Hurricane Katrina recovery on the Gulf coast. There&apos;s some great stories of recovery and interesting discussion of how economic studies are done.&lt;br&gt;&lt;br&gt;Couple interesting notes:&lt;br&gt;- Pete setup teams focused on looking at recovery from 3 perspectives - Government, Private Sector and &quot;Civil Society&quot; (e.g. churches, clubs, schools, other non-profits)&lt;br&gt;&lt;br&gt;- New Orleans suffered in recovery from not allowing &quot;Permissionless Innovation&quot; and from preventing skilled laborers, who could rebuild homes, from using their licenses in New Orleans. Feels a bit like Uber &amp;amp; AirBnB&apos;s struggles with regulations. &lt;br&gt;&lt;br&gt;-Pete articulates an interesting model for how structural changes happen in the economy (see picture) - Ideas legitimate institutions (ex. Private Property - The fact that people believe in the idea, decreases the cost of enforcement and so helps create it)&lt;br&gt;     -&amp;gt; Institutions structure intensives and control flow of information and feedback  &lt;br&gt;     -&amp;gt; This Generates economics performance&lt;br&gt;     -&amp;gt; We evaluate the outcome based on Ideas about &quot;the good life&quot; and &quot;human flourishing&quot; feedback into which ideas have traction.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@jfilcik&apos;&gt;Joe Filcik&lt;/a&gt;: @jfilcik Link to iTunes: https://itunes.apple.com/us/podcast/econtalk/id135066958?mt=2&amp;amp;i=354625512&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/a5ca176e-7205-48cc-92ce-79c774a82804?auto=format&amp;w=260&amp;h=260"/>
+        </item>
+        <item>
+            <title><![CDATA[▲2 | Homoground - 3: screaming females / pink flag / butts]]></title>
+            <description><![CDATA[podcast featuring music by LGBTQ and allied musicians]]></description>
+            <link>https://www.producthunt.com/podcasts/homoground-3-screaming-females-pink-flag-butts</link>
+            <guid isPermaLink="false">http://rss.acast.com/homoground/-003-screaming-females-pink-flag-butts/media.mp3</guid>
+            <dc:creator><![CDATA[¯\_(ツ)_/¯]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 15:54:34 GMT</pubDate>
+            <enclosure url="http://rss.acast.com/homoground/-003-screaming-females-pink-flag-butts/media.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>¯\_(ツ)_/¯</itunes:author>
+            <itunes:subtitle>podcast featuring music by LGBTQ and allied musicians</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/homoground-3-screaming-females-pink-flag-butts&apos;&gt;podcast featuring music by LGBTQ and allied musicians&lt;/a&gt;&lt;/p&gt;</itunes:summary>
+            <itunes:order>9997</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/3b5460fe-aadc-49a6-bd51-f91a7f1eeeda?auto=format&amp;w=260&amp;h=256"/>
+        </item>
+        <item>
+            <title><![CDATA[▲1 | The Mating Grounds - Ep. 3, Helping Joe]]></title>
+            <description><![CDATA[Joe makes a funny mistake on his first Tinder date]]></description>
+            <link>https://www.producthunt.com/podcasts/the-mating-grounds-ep-3-helping-joe</link>
+            <guid isPermaLink="false">http://traffic.libsyn.com/thematinggrounds/Helping_Joe_3.mp3</guid>
+            <dc:creator><![CDATA[Unknown]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2015 17:43:24 GMT</pubDate>
+            <enclosure url="http://traffic.libsyn.com/thematinggrounds/Helping_Joe_3.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Unknown</itunes:author>
+            <itunes:subtitle>Joe makes a funny mistake on his first Tinder date</itunes:subtitle>
+            <itunes:summary>&lt;p&gt;&lt;a href=&apos;https://www.producthunt.com/podcasts/the-mating-grounds-ep-3-helping-joe&apos;&gt;Joe makes a funny mistake on his first Tinder date&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Comments&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;https://producthunt.com/@joeantenucci&apos;&gt;Joe Antenucci&lt;/a&gt;: Every week @tuckermax @charliehoehn and @nilsAparker sit down with me to help with my problems meeting and dating women. I am a 26 year old ginger. I&apos;m a smart, nice, normal guy that doesn&apos;t do well with women and just moved to Austin, Texas. They go over my issues, insecurities, and anxieties about sex &amp;amp; dating and they help solve them so I can reach my goals and live a happy life.&lt;br&gt;&lt;br&gt;Some highlights from this episode: &lt;br&gt;-I made a critical but hilarious mistake on one first date. It was obvious to Charlie and Tucker what happened, but I was oblivious to it at the time.&lt;br&gt;-&quot;Joe is exceedingly average. This is a normal dude, and most dudes out there are doing the same sorts of [stupid] things… totally oblivious. And girls are like, ‘What the fuck is going on?’”&lt;br&gt;-There could be a million reasons why she doesn&apos;t show up or cancels a date, don&apos;t take it personally.&lt;br&gt;-With each date, you get more experience and you get it really cheap. You will be better off for next time. Just keep showing up. You will get better. &lt;br&gt;-The first thing to do on the first date is make her feel comfortable and safe. Just do what’s normal, simple, and easy at the beginning. &lt;br&gt;-Most guys don’t know how to act natural because they don’t get enough reps.&lt;br&gt;-The number and strength of relationships has huge health implications, even for things like testosterone.&lt;/p&gt;</itunes:summary>
+            <itunes:order>9998</itunes:order>
+            <itunes:image href="http://ph-files.imgix.net/bb873994-faeb-465a-9ab6-fbafc7d5ab58?auto=format&amp;w=260&amp;h=259"/>
+        </item>
+    </channel>
+</rss>

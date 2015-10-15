@@ -1,0 +1,20 @@
+{
+  "name": "ProductHuntPodcastMetaPodcast",
+  "version": "0.0.1",
+  "description": "",
+  "main": "generate.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moritz Kobrna",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "moment": "^2.10.3",
+    "needle": "^0.8.2",
+    "rss": "^1.2.0",
+    "sanitizer": "^0.1.2",
+    "sugar": "^1.4.1",
+    "winston": "^1.0.0"
+  }
+}
