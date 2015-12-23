@@ -22,22 +22,21 @@ ph = new ProducthuntAPI
   
 generateXML = (posts) ->
   feedOptions = 
-    title: "Product Hunt Podcasts β"
-    description: "All Product Hunt podcast β submissions wrapped in one podcast updated hourly"
-    feed_url: "http://phpmp.lab.moritz.pro/feed.xml"
+    title: "Product Hunt podcasts"
+    description: "All Product Hunt podcast submissions wrapped in one podcast updated hourly"
+    feed_url: "http://feed.lab.moritz.pro/feed.xml"
     site_url: "https://www.producthunt.com/podcasts"
     language: "en"
     ttl: 15
+    image_url: "http://feed.lab.moritz.pro/producthunt-podcasts.png"
     custom_namespaces:
       itunes: "http://www.itunes.com/dtds/podcast-1.0.dtd"
       
     custom_elements: [
       { "itunes:explicit": "clean" }
       { "itunes:summary": "All Product Hunt podcast submissions wrapped in one podcast. Updated hourly!" }
-      { "itunes:category": [
-        _attr: 
-          text: "Technology"
-      ]}
+      { "itunes:image": { _attr: { href: "http://feed.lab.moritz.pro/producthunt-podcasts.png" } } }
+      { "itunes:category": [ { _attr: { text: "Technology" } } ] }
     ]
      
   feed = new RSS feedOptions
@@ -57,7 +56,7 @@ generateXML = (posts) ->
         summary += "<p><a href='https://producthunt.com/@#{comment.user.username}'>#{comment.user.name}</a>: #{body}</p>"
     
     itemOptions =
-      title: " | #{post.name}"
+      title: "#{post.name}"
       description: post.tagline
       author: post.makers?.map((m) -> m.name)?.join(", ") || "Unknown"
       guid: post.thumbnail.metadata.url.replace("https", "http")
@@ -90,21 +89,21 @@ ph.podcasts params: { days_ago: 0 }, (posts1) ->
           flatComments(comment.child_comments, allComments) if comment.child_comments && comment.child_comments.length > 0
         allComments
   
-      fetchComments = (posts, callback, postsWidthComments = []) ->
+      fetchComments = (posts, callback, postsWithComments = []) ->
         if post = posts.shift()
     
           if post.comments_count > 0
             ph.post_comments post.id, (comments) ->
               post.comments = flatComments(comments)
-              postsWidthComments.push post
-              fetchComments posts, callback, postsWidthComments
+              postsWithComments.push post
+              fetchComments posts, callback, postsWithComments
           else
             post.comments = []
-            postsWidthComments.push post
-            fetchComments posts, callback, postsWidthComments
+            postsWithComments.push post
+            fetchComments posts, callback, postsWithComments
       
         else
-          callback postsWidthComments
+          callback postsWithComments
   
       fetchComments posts, generateXML
   
