@@ -6,7 +6,9 @@ moment         = require "moment"
 winston        = require "winston"
 sanitizer      = require "sanitizer"
 RSS            = require "rss"
+dotenv         = require "dotenv"
 
+dotenv.load()
 NODE_ENV = process.env.NODE_ENV || "development"
 
 logger = new (winston.Logger)
@@ -17,25 +19,25 @@ else
   logger.add(winston.transports.File, prettyPrint: true, filename: "log/#{NODE_ENV}.log")
 
 ph = new ProducthuntAPI
-  accessToken: "49c3adc71ab80262b15b4208036f9f6f0d7bcc9b3a494fdfb7dbc80fece21cdb"
+  accessToken: process.env.PH_ACCESS_TOKEN
   debug: NODE_ENV == "development"
   
 generateXML = (posts) ->
   feedOptions = 
     title: "Product Hunt podcasts"
-    description: "All Product Hunt podcast submissions wrapped in one podcast updated hourly"
+    description: "All Product Hunt podcast submissions wrapped in one podcast feed – Updated hourly"
     feed_url: "http://feed.lab.moritz.pro/feed.xml"
-    site_url: "https://www.producthunt.com/podcasts"
+    site_url: "https://producthunt.com/podcasts"
     language: "en"
     ttl: 15
-    image_url: "http://feed.lab.moritz.pro/producthunt-podcasts.png"
+    image_url: "http://feed.lab.moritz.pro/podcasts-cover.png"
     custom_namespaces:
       itunes: "http://www.itunes.com/dtds/podcast-1.0.dtd"
       
     custom_elements: [
       { "itunes:explicit": "clean" }
-      { "itunes:summary": "All Product Hunt podcast submissions wrapped in one podcast. Updated hourly!" }
-      { "itunes:image": { _attr: { href: "http://feed.lab.moritz.pro/producthunt-podcasts.png" } } }
+      { "itunes:summary": "All Product Hunt podcast submissions wrapped in one podcast feed – Updated hourly" }
+      { "itunes:image": { _attr: { href: "http://feed.lab.moritz.pro/podcasts-cover.png" } } }
       { "itunes:category": [ { _attr: { text: "Technology" } } ] }
     ]
      
@@ -56,7 +58,7 @@ generateXML = (posts) ->
         summary += "<p><a href='https://producthunt.com/@#{comment.user.username}'>#{comment.user.name}</a>: #{body}</p>"
     
     itemOptions =
-      title: "#{post.name}"
+      title: post.name
       description: post.tagline
       author: post.makers?.map((m) -> m.name)?.join(", ") || "Unknown"
       guid: post.thumbnail.metadata.url.replace("https", "http")
@@ -106,12 +108,3 @@ ph.podcasts params: { days_ago: 0 }, (posts1) ->
           callback postsWithComments
   
       fetchComments posts, generateXML
-  
-  
-  
-  
-  
-  
-  
-  
-  
