@@ -83,29 +83,30 @@ generateXML = (posts) ->
 ph.podcasts params: { days_ago: 0 }, (posts1) ->
   ph.podcasts params: { days_ago: 1 }, (posts2) ->
     ph.podcasts params: { days_ago: 2 }, (posts3) ->
-      
-      posts = posts1.add(posts2).add(posts3)
-      
-      flatComments = (comments, allComments = []) ->
-        allComments.add comments
-        for comment in comments
-          flatComments(comment.child_comments, allComments) if comment.child_comments && comment.child_comments.length > 0
-        allComments
-  
-      fetchComments = (posts, callback, postsWithComments = []) ->
-        if post = posts.shift()
+      ph.podcasts params: { days_ago: 3 }, (posts4) ->
+        
+        posts = posts1.add(posts2).add(posts3).add(posts4)
+        
+        flatComments = (comments, allComments = []) ->
+          allComments.add comments
+          for comment in comments
+            flatComments(comment.child_comments, allComments) if comment.child_comments && comment.child_comments.length > 0
+          allComments
     
-          if post.comments_count > 0
-            ph.post_comments post.id, (comments) ->
-              post.comments = flatComments(comments)
+        fetchComments = (posts, callback, postsWithComments = []) ->
+          if post = posts.shift()
+      
+            if post.comments_count > 0
+              ph.post_comments post.id, (comments) ->
+                post.comments = flatComments(comments)
+                postsWithComments.push post
+                fetchComments posts, callback, postsWithComments
+            else
+              post.comments = []
               postsWithComments.push post
               fetchComments posts, callback, postsWithComments
+        
           else
-            post.comments = []
-            postsWithComments.push post
-            fetchComments posts, callback, postsWithComments
-      
-        else
-          callback postsWithComments
-  
-      fetchComments posts, generateXML
+            callback postsWithComments
+    
+        fetchComments posts, generateXML
