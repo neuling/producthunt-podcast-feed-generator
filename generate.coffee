@@ -30,6 +30,7 @@ generateXML = (posts) ->
     site_url: "https://producthunt.com/podcasts"
     language: "en"
     ttl: 15
+    author: "Moritz Kobrna"
     image_url: "http://feed.lab.moritz.pro/podcasts-cover.png"
     custom_namespaces:
       itunes: "http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -61,7 +62,7 @@ generateXML = (posts) ->
       title: post.name
       description: post.tagline
       author: post.makers?.map((m) -> m.name)?.join(", ") || "Unknown"
-      guid: post.thumbnail.metadata.url.replace("https", "http")
+      guid: post.id
       url: post.discussion_url
       date: post.created_at
       enclosure:
